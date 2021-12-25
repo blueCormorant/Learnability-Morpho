@@ -19,4 +19,7 @@ are commonly associated with irregular verbs. Finally, though the
 corpus used was relatively small, the model generated no doubly
 marked forms.
 
-
+| ------------- |:-------------:| ---------:|
+| swing         | grind         | ingrow    |
+| swung         | ground        | ingrew    |
+| swinged       | grinded       | ingrowed  |
