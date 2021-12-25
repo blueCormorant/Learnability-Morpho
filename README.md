@@ -19,6 +19,13 @@ are commonly associated with irregular verbs. Finally, though the
 corpus used was relatively small, the model generated no doubly
 marked forms.
 
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
+
 | ------------- |:-------------:| ---------:|
 | swing         | grind         | ingrow    |
 | swung         | ground        | ingrew    |
