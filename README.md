@@ -19,6 +19,8 @@ are commonly associated with irregular verbs. Finally, though the
 corpus used was relatively small, the model generated no doubly
 marked forms.
 
+Examples of overregularized forms can be seen in the following table.
+
 
 | Present        | Past          | Overregularized |
 | ------------- | ------------- | --------------- |
