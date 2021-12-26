@@ -1,11 +1,11 @@
 #!/bin/bash
-# Generate predictions for morpho-polish fairseq model
+# Generate predictions for morpho-english fairseq model
 
 set -eou pipefail
 
 # Display help
 Help() {
-    echo "Generate predicitons for morpho-italian fairseq model"
+    echo "Generate predicitons for morpho-english fairseq model"
     echo "Syntax: fairseq_generate.sh [-h|d|b|o]"
     echo "d) Save directory"
     echo "b) Beam"

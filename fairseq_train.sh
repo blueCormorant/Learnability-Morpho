@@ -1,11 +1,11 @@
 #!/bin/bash
-# Train fairseq model for predicting polish genetive case
+# Train fairseq model for predicting english past tense
 
 set -eou pipefail
 
 # Display help
 Help() {
-    echo "Train fairseq model for predicting polish genetive case"    
+    echo "Train fairseq model for predicting english past tense"    
     echo "Syntax: fairseq_train.sh [-h|s|a|d|o|b|c|e|f|l|m|w|x|y|z]"
     echo "options:"
     echo "h)     Print help"
